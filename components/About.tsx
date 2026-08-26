@@ -144,7 +144,7 @@ export default function About() {
                   </div>
                 </div>
                 <div>
-                  <h3 className="text-xl font-black text-gray-800">倉金 睦</h3>
+                  <h3 className="text-xl font-black text-gray-800">村上​ 渉</h3>
                   <p className="text-sky-600 font-semibold text-sm mt-0.5">
                     フルスタックエンジニア / Full-Stack Developer
                   </p>
