@@ -9,11 +9,11 @@ const notoSansJP = Noto_Sans_JP({
 });
 
 export const metadata: Metadata = {
-  title: "村上 渉 | フルスタックエンジニア ポートフォリオ",
+  title: "倉金 睦 | フルスタックエンジニア ポートフォリオ",
   description:
-    "村上 渉のポートフォリオサイト。React・Next.js・Node.js・TypeScriptを中心としたフルスタック開発。企画から設計・開発・運用までワンストップで対応します。",
+    "倉金 睦のポートフォリオサイト。React・Next.js・Node.js・TypeScriptを中心としたフルスタック開発。企画から設計・開発・運用までワンストップで対応します。",
   keywords: [
-    "村上 渉",
+    "倉金 睦",
     "フルスタックエンジニア",
     "React",
     "Next.js",
@@ -26,7 +26,7 @@ export const metadata: Metadata = {
     "郡山市",
   ],
   openGraph: {
-    title: "村上 渉 | フルスタックエンジニア ポートフォリオ",
+    title: "倉金 睦 | フルスタックエンジニア ポートフォリオ",
     description:
       "アイデアをカタチに、ビジネスを加速する。フルスタック開発で価値あるプロダクトを共に創り上げます。",
     type: "website",
